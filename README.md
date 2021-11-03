@@ -32,7 +32,7 @@ This Magisk module mounts one or more filesystems (e.g. CIFS/SMB, NFS, etc.).
 
 ## Notes
 
-- Every distinct mount requires its own config file. E.g. to mount multiple CIFS shares, create multiple config files
+- Every distinct mount requires its own config file. So, to mount multiple CIFS shares, create multiple config files
   (e.g. `cifs-1.conf`, `cifs-2.conf`, etc.). Filenames are arbitrary, but must end in `.conf`.
 
 - Config files are read at boot. Reboot for changes to take effect.
