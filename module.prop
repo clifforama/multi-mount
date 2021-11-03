@@ -1,0 +1,6 @@
+id=multi-mount
+name=Multi-Mount
+version=v1.0.0
+versionCode=1
+author=clifforama
+description=Mounts one or more filesystems (e.g. CIFS/SMB, NFS, etc.)
